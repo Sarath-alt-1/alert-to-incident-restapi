@@ -1,3 +1,5 @@
+<img width="1536" height="1177" alt="IMG_20260818_111813 (1)" src="https://github.com/user-attachments/assets/302b85d5-c28a-43b4-9ad1-8f07441a5e53" />
+<img width="1536" height="655" alt="IMG_20260818_111752 (1)" src="https://github.com/user-attachments/assets/c9cef60f-5ed2-4032-8de8-f08c5189ac2e" />
 # Alert-to-Incident Automation — Scripted REST API Integration
 
 A custom Scripted REST API built on a ServiceNow Personal Developer Instance (PDI) that automates the creation of Incident records from external alert data — replacing manual alert triage with a real-time, authenticated integration endpoint.
